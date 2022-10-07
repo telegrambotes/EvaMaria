@@ -62,7 +62,7 @@ You can deploy this bot anywhere.
 </p>
 </details>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/satyushree/EvaMaria)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/telegrambotes/EvaMaria)
 
 
 <details><summary>Deploy To VPS</summary>
